@@ -1,0 +1,11 @@
+name: MinescapeMSG
+version: 1.0
+author: Jakex Media
+main: me.jakex.MinescapeMSG
+commands:
+  Message:
+    description: Send a msg
+    aliases: [m, msg, whisper, w, tell, t]
+  Reply:
+    description: Send a reply
+    aliases: [r, reply]
